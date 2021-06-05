@@ -9,8 +9,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <p align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=LeGitHubDeTai&show_icons=true&theme=tokyonight">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnimeBack-Bot&show_icons=true&theme=onedark">
-  
+  <a href="http://www.youtube.com/watch?v=JpFKSTRth4M">
+    <img src="https://github.com/LeGitHubDeTai/AnimeBack/blob/main/assets/Trailer%20Animeback.jpg?raw=true" width="45%" ></img>
+  </a>
 </p>
